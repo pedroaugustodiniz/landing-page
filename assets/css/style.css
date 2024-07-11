@@ -82,6 +82,10 @@ white-bg {
     min-height: 100vh;
 }
 
+.menu-space {
+    height: 65px;
+}
+
 .menu {
     background-color: var(--white-color);
     position: fixed;
